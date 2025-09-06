@@ -15,7 +15,8 @@ I'm a Senior IT Architect specializing in cloud and infrastructure. I design, bu
 - **Infrastructure as Code:** Pulumi, Terraform
 - **Languages:** Python, Ruby, TypeScript
 - **Operating Systems:** Linux, macOS, *BSD
-- **Other:** UniFi, Cloud Migration, Architecture, best in Vibe-Coding 😜
+- **Architecture & Patterns:** Microservices, Microservice Architecture, Cloud Migration
+- **Other:** UniFi, Cloud Technologies, Architecture, best in Vibe-Coding 😜, living on the edge
 
 ---
 
