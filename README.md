@@ -1,4 +1,4 @@
-# 👋 Hi, I'm okleinschmidt
+# 👋 Hi, I'm Ole!
 
 **Senior IT Architect** (Cloud & Infrastructure)
 
@@ -15,7 +15,7 @@ I'm a Senior IT Architect specializing in cloud and infrastructure. I design, bu
 - **Infrastructure as Code:** Pulumi, Terraform
 - **Languages:** Python, Ruby, TypeScript
 - **Operating Systems:** Linux, macOS, *BSD
-- **Other:** UniFi, Cloud Migration, Architecture
+- **Other:** UniFi, Cloud Migration, Architecture, best in Vibe-Coding 😜
 
 ---
 
